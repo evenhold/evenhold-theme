@@ -16,7 +16,7 @@ installation
    
      -  copy file  evenhold-theme.el in folder:
           
-         /emacs/etc/themes
+         .../emacs/etc/themes
 
 
 Credit
