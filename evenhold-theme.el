@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2011-2013 Free Software Foundation, Inc.
 
-;; Author: Scott Frazer <frazer.scott@gmail.com>
+;; Author: Franz Victorio <evenhold@gmail.com>
 
 ;; This file is part of GNU Emacs.
 
