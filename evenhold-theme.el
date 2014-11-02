@@ -1,6 +1,6 @@
 ;;; evenhold-theme.el --- Custom theme for faces
 
-;; Copyright (C) 2011-2013 Free Software Foundation, Inc.
+;; Copyright (C) 2011-2014 Free Software Foundation, Inc.
 
 ;; Author: Franz Victorio <evenhold@gmail.com>
 
