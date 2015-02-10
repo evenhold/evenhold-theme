@@ -9,14 +9,17 @@ theme for GNU emacs
 ![javascript](https://lh5.googleusercontent.com/-A8L1tn7qg70/U55mUS9YfZI/AAAAAAAAAZ0/aOO73bCx868/w1117-h677-no/emacs+Javascript.JPG)
 
 ![java](https://lh3.googleusercontent.com/-2pPMblBB-WU/U55mUUcl0YI/AAAAAAAAAZk/8ocuS00Efwo/w1118-h677-no/emacs+Java+android.JPG)
-installation
+
+Installation
 ==============
 
 
    
-     -  copy file  evenhold-theme.el in folder:
+     -  Copy file  evenhold-theme.el in folder:
           
          .../emacs/etc/themes
+
+
 
 
 Credit
