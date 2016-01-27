@@ -26,6 +26,6 @@ Credit
 ------------------------------------------------------------------------
 
 
-You like this theme? I'd be glad to hear! Contact me on [Facebook](https://www.facebook.com/evenhold).
+You like this theme? I'd be glad to hear! Contact me on [Twitter](https://twitter.com/jfvictorio).
 
 If you want a custom color for this theme, you can also contact me and I'll be happy to make one for you!
