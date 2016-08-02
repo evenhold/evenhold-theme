@@ -70,7 +70,7 @@
    `(font-lock-doc-face ((,class (:foreground "#EFEFEF"))))
    `(font-lock-doc-string-face ((,class (:foreground "moccasin"))))
    `(font-lock-function-name-face ((,class (:foreground "#32BAFF" ))))
-   `(font-lock-keyword-face ((,class (:foreground "#8600AF" ))))
+   `(font-lock-keyword-face ((,class (:foreground "#B300FF" :weight bold))))
    `(font-lock-preprocessor-face ((,class (:foreground "#007DC5"))))
    `(font-lock-reference-face ((,class (:foreground "green"))))
    `(font-lock-regexp-grouping-backslash ((,class (:weight bold))))
